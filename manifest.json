@@ -1,0 +1,15 @@
+{
+  "name": "New Special Tab",
+  "version": "1.0",
+  "description": "Replace new tab page with a New Special Tab",
+  "permissions": ["activeTab", "declarativeContent", "storage"],
+  "background": {
+    "scripts": ["app.js"],
+    "persistent": false
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "offline_enabled": true,
+  "manifest_version": 2
+}
