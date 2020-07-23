@@ -5,7 +5,7 @@ I have created this Interactive New-Tab-Page Chrome Extension from [ Utpal Kumar
 ![Screenshot](/img/screenshot.png)
 
 
-# 💻 Demo 
+# 💻 Demo Video (Click on the image)
 [![Watch the video](https://img.youtube.com/vi/uZhKLMP5kak/hqdefault.jpg)](https://youtu.be/uZhKLMP5kak)
 
 
