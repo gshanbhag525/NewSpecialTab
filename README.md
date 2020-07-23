@@ -6,5 +6,6 @@ I have created this Interactive New-Tab-Page Chrome Extension from [ Utpal Kumar
 
 
 # 💻 Demo 
-![Demo video](/demo/demo.mp4)
+[![Watch the video](https://img.youtube.com/vi/uZhKLMP5kak/hqdefault.jpg)](https://youtu.be/uZhKLMP5kak)
+
 
